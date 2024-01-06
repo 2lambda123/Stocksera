@@ -17,7 +17,7 @@ coverage==6.4.1
 cycler==0.10.0
 DateTime==4.3
 distro==1.6.0
-Django==3.1.6
+Django==3.1.14
 django-crispy-forms==1.14.0
 djangorestframework==3.13.1
 djangorestframework-api-key==2.2.0
