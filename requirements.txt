@@ -58,7 +58,7 @@ pluggy==1.0.0
 pprintpp==0.4.0
 praw==7.2.0
 prawcore==2.0.0
-protobuf==3.16.0
+protobuf==3.18.3
 py==1.11.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
