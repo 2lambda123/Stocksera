@@ -3,20 +3,20 @@
 ## Tech Stack
 2lambda123/Stocksera is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [MySQL](http://www.mysql.com) – Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [Python](https://www.python.org) – Languages
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [Zope](https://www.zope.org) – Web Servers
 - [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
+- [MySQL](http://www.mysql.com) – Databases
+- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Zope](https://www.zope.org) – Web Servers
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/Stocksera is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/6969/zopeHIres_400x400.jpg' alt='Zope'/> [Zope](https://www.zope.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'/> [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/6969/zopeHIres_400x400.jpg' alt='Zope'/> [Zope](https://www.zope.org) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/Stocksera](https://github.com/2lambda123/Stocksera)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|101<br/>Tools used|01/09/24 <br/>Report generated|
+|101<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -256,7 +256,7 @@ Full tech stack [here](/techstack.md)
 |[feedparser](https://pypi.org/project/feedparser)|v6.0.2|01/06/24|dependabot[bot] |Other|N/A|
 |[gast](https://pypi.org/project/gast)|v0.3.3|08/30/21|spartan737 |BSD-3-Clause|N/A|
 |[greenlet](https://pypi.org/project/greenlet)|v1.1.2|03/27/22|spartan737 |MIT|N/A|
-|[grpcio](https://pypi.org/project/grpcio)|v1.53.0|11/12/23|dependabot[bot] |Apache-2.0|N/A|
+|[grpcio](https://pypi.org/project/grpcio)|v1.53.0|11/12/23|dependabot[bot] |Apache-2.0|[CVE-2023-4785](https://github.com/advisories/GHSA-p25m-jpj4-qcrr) (High)|
 |[html5lib](https://pypi.org/project/html5lib)|v1.1|08/30/21|spartan737 |MIT|N/A|
 |[idna](https://pypi.org/project/idna)|v2.10|08/30/21|spartan737 |BSD-3-Clause|N/A|
 |[importlib-metadata](https://pypi.org/project/importlib-metadata)|v4.0.1|08/30/21|spartan737 |Apache-2.0|N/A|
@@ -291,7 +291,7 @@ Full tech stack [here](/techstack.md)
 |[requests-oauthlib](https://pypi.org/project/requests-oauthlib)|v1.3.0|01/06/24|dependabot[bot] |ISC|N/A|
 |[rsa](https://pypi.org/project/rsa)|v4.7.2|08/30/21|spartan737 |Apache-2.0|N/A|
 |[ruamel.yaml](https://pypi.org/project/ruamel.yaml)|v0.17.21|03/31/22|spartan737 |MIT|N/A|
-|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.24.2|08/30/21|spartan737 |BSD-3-Clause|N/A|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.24.2|08/30/21|spartan737 |BSD-3-Clause|[CVE-2020-28975](https://github.com/advisories/GHSA-jxfp-4rvq-9h9m) (High)|
 |[simplejson](https://pypi.org/project/simplejson)|v3.17.6|03/31/22|spartan737 |MIT|N/A|
 |[six](https://pypi.org/project/six)|v1.15.0|08/30/21|spartan737 |MIT|N/A|
 |[soupsieve](https://pypi.org/project/soupsieve)|v2.2.1|08/30/21|spartan737 |MIT|N/A|
