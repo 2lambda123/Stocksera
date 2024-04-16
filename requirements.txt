@@ -29,7 +29,7 @@ gast==0.3.3
 greenlet==1.1.2
 grpcio==1.53.2
 html5lib==1.1
-idna==2.10
+idna==3.7
 importlib-metadata==4.0.1
 inflection==0.5.1
 iniconfig==1.1.1
