@@ -89,7 +89,7 @@ simplejson==3.17.6
 six==1.15.0
 soupsieve==2.2.1
 SQLAlchemy==1.4.32
-sqlparse==0.4.4
+sqlparse==0.5.0
 tabula-py==2.3.0
 tenacity==8.0.1
 termcolor==1.1.0
