@@ -95,7 +95,7 @@ tenacity==8.0.1
 termcolor==1.1.0
 threadpoolctl==2.1.0
 tomli==2.0.1
-tqdm==4.56.2
+tqdm==4.66.3
 tweepy==3.10.0
 typing-extensions==3.10.0.0
 update-checker==0.18.0
