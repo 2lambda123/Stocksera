@@ -101,7 +101,7 @@ typing-extensions==3.10.0.0
 update-checker==0.18.0
 uritemplate==4.1.1
 url-normalize==1.4.3
-urllib3==1.26.18
+urllib3==1.26.19
 vaderSentiment==3.3.2
 webencodings==0.5.1
 websocket-client==0.58.0
